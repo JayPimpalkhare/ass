@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.5
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.30097142, g: 0.35328534, b: 0.40416428, a: 0.5}
+  m_IndirectSpecularColor: {r: 0.30097026, g: 0.353281, b: 0.4041651, a: 0.5}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -19174,12 +19174,12 @@ PrefabInstance:
     - target: {fileID: -5009542955728259291, guid: 2e000058b4fb74c18a476d9c1e22b232,
         type: 3}
       propertyPath: field of view
-      value: 9.346662
+      value: 16.052752
       objectReference: {fileID: 0}
     - target: {fileID: -5009542955728259291, guid: 2e000058b4fb74c18a476d9c1e22b232,
         type: 3}
       propertyPath: m_FocalLength
-      value: 146.79521
+      value: 85.1
       objectReference: {fileID: 0}
     - target: {fileID: -4711986742066722048, guid: 2e000058b4fb74c18a476d9c1e22b232,
         type: 3}
@@ -19304,12 +19304,12 @@ PrefabInstance:
     - target: {fileID: 7064539268536305747, guid: 2e000058b4fb74c18a476d9c1e22b232,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 203
+      value: 228
       objectReference: {fileID: 0}
     - target: {fileID: 7064539268536305747, guid: 2e000058b4fb74c18a476d9c1e22b232,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -880
+      value: -1003
       objectReference: {fileID: 0}
     - target: {fileID: 7064539268536305747, guid: 2e000058b4fb74c18a476d9c1e22b232,
         type: 3}
@@ -44109,17 +44109,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.03
-  m_Text: 'Thank you for downloading RSK.
-
-    To get started check the PDF doc,
-    script comments and videos in the SpinMotion YouTube channel.
-
-
-    In the Asset
-    Store you can check the full version of this project: Racing Project Kit
-
-    And
-    online multiplayer versions using PUN 2.'
+  m_Text: "You\u2019re a rickshaw driver who\u2019s main mission is to make a quick
+    round around town without crashing into the many obstacles a city like Mumbai
+    has to offer."
 --- !u!222 &2017305589
 CanvasRenderer:
   m_ObjectHideFlags: 0
